@@ -505,7 +505,7 @@
 </div>
 
 <div class="row shift">
-<a class="btn btn-small  button1 tile" data-toggle="modal" href="#myModal" ></a>
+
 	<a class="btn btn-small button tile"  ></a>
 <a class="btn btn-small button tile"  ></a>
 <a class="btn btn-small button tile"  ></a>
@@ -524,6 +524,7 @@
 <a class="btn btn-small button tile"  ></a>
 <a class="btn btn-small button tile"  ></a>
 <a class="btn btn-small button tile"  ></a>
+<a class="btn btn-small  button1 tile" data-toggle="modal" href="#myModal" ></a>
 <a class="btn btn-small button tile"  ></a>
 <a class="btn btn-small button tile"  ></a>
 <a class="btn btn-small button tile"  ></a>
@@ -531,8 +532,8 @@
 
 </div> 
 </div> 
-   
-<div class="modal hide fade" id="myModal" style="height: 500px; width: 800px; margin-left:-30	%">
+ <div class="container wrap">  
+<div class="modal hide fade" id="myModal" style="height: 500px; width: 800px; margin-left:-40	%">
   <div class="modal-header">
     <a class="close" data-dismiss="modal">×</a>
     <h3>Modal header</h3>
@@ -564,7 +565,7 @@
                     <ul class="thumbnails">
                         <li class="span3">
                             <div class="caption">
-                                <h5>Caption</h5>
+                                <h5>Shouvik</h5>
                             </div>
                             <div class="thumbnail">
                                 <img src="http://placehold.it/260x180" alt="">
@@ -572,11 +573,131 @@
                         </li>
                         <li class="span9" style="min-height: 200px; text-align: right">
                             <div class="caption">
-                                <h5>Caption</h5>
+                                <h5>Dhur baal</h5>
                             </div>
                         </li>
                     </ul>
-              </div>            </div>
+              </div>            
+              <div class="item ">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="caption">
+                                <h5>Shouvik</h5>
+                            </div>
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                            </div>
+                        </li>
+                        <li class="span9" style="min-height: 200px; text-align: right">
+                            <div class="caption">
+                                <h5>Dhur baal</h5>
+                            </div>
+                        </li>
+                    </ul>
+              </div>
+              <div class="item ">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="caption">
+                                <h5>Shouvik</h5>
+                            </div>
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                            </div>
+                        </li>
+                        <li class="span9" style="min-height: 200px; text-align: right">
+                            <div class="caption">
+                                <h5>Dhur baal</h5>
+                            </div>
+                        </li>
+                    </ul>
+              </div>
+              <div class="item ">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="caption">
+                                <h5>Shouvik</h5>
+                            </div>
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                            </div>
+                        </li>
+                        <li class="span9" style="min-height: 200px; text-align: right">
+                            <div class="caption">
+                                <h5>Dhur baal</h5>
+                            </div>
+                        </li>
+                    </ul>
+              </div>
+              <div class="item ">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="caption">
+                                <h5>Shouvik</h5>
+                            </div>
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                            </div>
+                        </li>
+                        <li class="span9" style="min-height: 200px; text-align: right">
+                            <div class="caption">
+                                <h5>Dhur baal</h5>
+                            </div>
+                        </li>
+                    </ul>
+              </div>
+              <div class="item ">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="caption">
+                                <h5>Shouvik</h5>
+                            </div>
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                            </div>
+                        </li>
+                        <li class="span9" style="min-height: 200px; text-align: right">
+                            <div class="caption">
+                                <h5>Dhur baal</h5>
+                            </div>
+                        </li>
+                    </ul>
+              </div>
+              <div class="item ">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="caption">
+                                <h5>Shouvik</h5>
+                            </div>
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                            </div>
+                        </li>
+                        <li class="span9" style="min-height: 200px; text-align: right">
+                            <div class="caption">
+                                <h5>Dhur baal</h5>
+                            </div>
+                        </li>
+                    </ul>
+              </div>
+              <div class="item ">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="caption">
+                                <h5>Shouvik</h5>
+                            </div>
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                            </div>
+                        </li>
+                        <li class="span9" style="min-height: 200px; text-align: right">
+                            <div class="caption">
+                                <h5>Dhur baal</h5>
+                            </div>
+                        </li>
+                    </ul>
+              </div>
+              </div>
             <a data-slide="prev" href="#myCarousel" class="left carousel-control" style="margin-top: 150px" >‹</a>
             <a data-slide="next" href="#myCarousel" class="right carousel-control" style="margin-top: 150px" >›</a>
         </div>
@@ -585,6 +706,7 @@
   </div>
   <div class="modal-footer">
   </div>
+</div>
 </div>
 </div>
 
