@@ -13,6 +13,10 @@
 .shift{ margin-left: 1.5%; }
 .button { background-image: url('brick.png'); height: 15px; width: 2.5%; margin: -2px;} 
 .button1 { background-image: url('brick1.png');height: 15px; width: 2.5%; margin: -2px;}
+ .header {
+    position: fixed;  width: 100%;
+   
+}
 </style>
 <title></title>
 </head>
@@ -20,7 +24,8 @@
   
 
       <!-- Header -->
-      <div class=" navbar-fixed-top ">
+     <div class="header">
+<div class="row well "><div class="container" style="padding-left: 10%">… WHERE YOUR CODE GETS DEPLOYED AND LEARNING BECOMES OUR OBJECTIVE</div> </div>      
        <div class="navbar navbar-fixed-top navbar-inverse" style="margin-top: 40px; z-index: 0 !important; background-color: #fff !important; " >
    
   <div class="navbar-inner " style="padding-left: 40px; ">
@@ -38,23 +43,22 @@
   </div>
         </div>
         
-   <div class="row" style="margin-top:  -10px; margin-left: 10px;  z-index: 1000	 !important; ">
+   <div class="row" style="margin-top: -7%; margin-left: 10px;   ">
 								  <div class="span7" style=" z-index: 1000 !important">
 								  <img src="img/logo.png" alt="" style="height:170px ; z-index: 1000 !important ; position: relative"> 								  
 								  
  								  
 								  <img src="img/ungineering.png" alt="" style="height:120px; margin-left:-60px; padding-top: 70px ">
 								  </div>
-										
+							</div>
+							</div>			
+						
 
-						</div>
-						</div>
 
+<div style="height:300px	"> </div>
+<div class="" style="margin-left: 2%; ">
 
-<div class=" wrap">
-<div class="" style="margin-left: 2%">
-
-<div class="row">
+<div class="row ">
 
 <a class="btn btn-small button tile"  ></a>
 <a class="btn btn-small button tile"  ></a>
@@ -531,14 +535,14 @@
 </div>
 
 </div> 
-</div> 
- <div class="container wrap">  
-<div class="modal hide fade" id="myModal" style="height: 500px; width: 800px; margin-left:-40	%">
+
+ <div class="row" style="z-index: 100 !important">  
+<div class="modal hide fade" id="myModal" style="height: 500px; width: 800px; margin-left:-40	%; ">
   <div class="modal-header">
     <a class="close" data-dismiss="modal">×</a>
     <h3>Modal header</h3>
   </div>
-  <div class="modal-body" style="height: 300px">
+  <div class="modal-body" style="height: 300px; ">
 <div class="container-fluid">
     <div class="row-fluid">
     <div class="carousel slide" id="myCarousel">
@@ -582,7 +586,7 @@
                     <ul class="thumbnails">
                         <li class="span3">
                             <div class="caption">
-                                <h5>Shouvik</h5>
+                                <h5>Roti</h5>
                             </div>
                             <div class="thumbnail">
                                 <img src="http://placehold.it/260x180" alt="">
@@ -599,7 +603,7 @@
                     <ul class="thumbnails">
                         <li class="span3">
                             <div class="caption">
-                                <h5>Shouvik</h5>
+                                <h5>AP</h5>
                             </div>
                             <div class="thumbnail">
                                 <img src="http://placehold.it/260x180" alt="">
@@ -616,7 +620,7 @@
                     <ul class="thumbnails">
                         <li class="span3">
                             <div class="caption">
-                                <h5>Shouvik</h5>
+                                <h5>BB</h5>
                             </div>
                             <div class="thumbnail">
                                 <img src="http://placehold.it/260x180" alt="">
@@ -633,7 +637,7 @@
                     <ul class="thumbnails">
                         <li class="span3">
                             <div class="caption">
-                                <h5>Shouvik</h5>
+                                <h5>MV</h5>
                             </div>
                             <div class="thumbnail">
                                 <img src="http://placehold.it/260x180" alt="">
@@ -650,7 +654,7 @@
                     <ul class="thumbnails">
                         <li class="span3">
                             <div class="caption">
-                                <h5>Shouvik</h5>
+                                <h5>KS</h5>
                             </div>
                             <div class="thumbnail">
                                 <img src="http://placehold.it/260x180" alt="">
@@ -667,7 +671,7 @@
                     <ul class="thumbnails">
                         <li class="span3">
                             <div class="caption">
-                                <h5>Shouvik</h5>
+                                <h5>Stuti</h5>
                             </div>
                             <div class="thumbnail">
                                 <img src="http://placehold.it/260x180" alt="">
@@ -684,7 +688,7 @@
                     <ul class="thumbnails">
                         <li class="span3">
                             <div class="caption">
-                                <h5>Shouvik</h5>
+                                <h5>RD</h5>
                             </div>
                             <div class="thumbnail">
                                 <img src="http://placehold.it/260x180" alt="">
