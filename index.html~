@@ -20,7 +20,7 @@
   
 
       <!-- Header -->
-<div class="header" style=">
+<div class="header" style="">
 <div class="row well "><div class="container" style="padding-left: 10%">… WHERE YOUR CODE GETS DEPLOYED AND LEARNING BECOMES OUR OBJECTIVE</div> </div>      
        <div class="navbar navbar-fixed-top navbar-inverse" style="margin-top: 40px; z-index: 0 !important; background-color: #fff !important; " >
    
@@ -39,7 +39,7 @@
   </div>
         </div>
         </div>
-   <div class="row" style=" margin-left: 10px;   ">
+   <div class="row" style=" margin-left: 10px; position: relative  ">
 								  <div class="span7" style=" z-index: 1000 !important">
 								  <img src="img/logo.png" alt="" style="height:170px ; z-index: 1000 !important ; position: relative"> 								  
 								  
